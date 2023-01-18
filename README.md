@@ -4,7 +4,7 @@ The code in YOLOv5_for_Object_Detection.ipynb was taken from the following video
 
 Steps Performed:
 
-1- Train yolov5 model
+1- Train yolov5 model  (The used dataset for trainig can be downloaded form: https://public.roboflow.com/object-detection/mask-wearing)
 
 2- Convert yolov5 (.pt model) into a tensorflow model(.pb file)
 
